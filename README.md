@@ -1,4 +1,3 @@
-- Software developer at ORBX Simulations systems
+- Producer at ORBX Simulations systems
 - Flightsim sceneries creations
-- MEAN STACK
-
+- Javascript/NodeJS lover
