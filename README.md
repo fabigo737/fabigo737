@@ -1,3 +1,2 @@
-- Producer at ORBX Simulations systems
 - Flightsim sceneries creations
 - Javascript/NodeJS lover
